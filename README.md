@@ -1,4 +1,4 @@
-# ** Jogo NIM**
+# **Jogo NIM**
 
  Inspirado em um [vídeo][jogo100] e [pesquisa][wikinim] experimentando codificar em linguagem C.
 
